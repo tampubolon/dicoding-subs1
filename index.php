@@ -28,7 +28,7 @@
  <?php
     $host = "macddicoding.database.windows.net";
     $user = "martinus";
-    $pass = "Sion2013";
+    $pass = "**********";
     $db = "tugas1-macd-dicoding";
 
     try {
